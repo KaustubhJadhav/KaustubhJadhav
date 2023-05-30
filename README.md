@@ -27,7 +27,7 @@
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=KaustubhJadhav&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=true" alt="kaustubhjadhav" /></p>
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;</p>
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KaustubhJadhav&theme=midnight-purple&hide_border=false" alt="kaustubhjadhav" /></p>
   
